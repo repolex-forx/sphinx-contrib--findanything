@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/sphinx-contrib/findanything",
+  "@type": "gh:Repository",
+  "gh:name": "findanything",
+  "gh:owner": "sphinx-contrib",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/sphinx-contrib/findanything/commit/3ee1369ffd58a2fa32683275d540172ad73c5f2c",
+      "git:hexsha": "3ee1369ffd58a2fa32683275d540172ad73c5f2c",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
